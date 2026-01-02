@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- © 2026 REFERENCE HRD. All Rights Reserved. -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="4" fill="#050505"/>
+  <rect x="4" y="4" width="6" height="6" fill="url(#grad)"/>
+  <rect x="12" y="4" width="6" height="6" fill="url(#grad)" opacity="0.8"/>
+  <rect x="20" y="4" width="6" height="6" fill="url(#grad)" opacity="0.6"/>
+  <rect x="4" y="12" width="6" height="6" fill="url(#grad)" opacity="0.8"/>
+  <rect x="12" y="12" width="6" height="6" fill="url(#grad)"/>
+  <rect x="20" y="12" width="6" height="6" fill="url(#grad)" opacity="0.8"/>
+  <rect x="4" y="20" width="6" height="6" fill="url(#grad)" opacity="0.6"/>
+  <rect x="12" y="20" width="6" height="6" fill="url(#grad)" opacity="0.8"/>
+  <rect x="20" y="20" width="6" height="6" fill="url(#grad)"/>
+</svg>
