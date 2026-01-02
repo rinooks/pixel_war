@@ -42,3 +42,6 @@ coverage/
 # Firebase
 .firebase/
 firebase-debug.log
+
+# Zip archives
+*.zip
